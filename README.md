@@ -28,7 +28,12 @@ risk segmentation, and machine learning to support better financial decision-mak
 
 <h3>Prediction Studio</h3>
 <p align="center">
-  <img src="assets/prediction.png" width="900"/>
+  <img src="assets/predictions.png" width="900"/>
+</p>
+
+ <h3>Prediction Studio</h3>
+<p align="center">
+  <img src="assets/view.png" width="900"/>
 </p>
 
 <h2>Core Features</h2>
